@@ -1,3 +1,22 @@
+
+body {
+    
+    background-image: url('sea.jpg');
+
+  
+    background-size: cover;
+
+  
+    background-repeat: no-repeat;
+
+   
+    background-position: center;
+
+   
+    min-height: 170vh; 
+   
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -61,7 +80,7 @@
   img {
     margin-right: auto;
     margin-left: auto;
-
+border-radius: 3rem;
     height: 100%;
   }
 }

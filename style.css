@@ -50,48 +50,31 @@
   flex-direction: row;
   padding: 3rem;
 }
-.ayah{
-    display: flex;
-    align-items: center;
-    
-   
-    width:100%;
-    padding:6rem;
-    flex-direction: column;
+.ayah {
+  display: flex;
+  align-items: center;
 
-    img{
-margin-right: auto;
+  width: 100%;
+  padding: 6rem;
+  flex-direction: column;
+
+  img {
+    margin-right: auto;
     margin-left: auto;
-    
-     height:100%;
-     
 
-   
-    }
-   
+    height: 100%;
+  }
 }
 
-#hasanat{
-    display: flex;
-    align-items: center;
-    text-decoration: none;
-    button{
-        margin-left: auto;
-        margin-right: auto;
-        
-    }
+#hasanat {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  button {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
-
-
-
-
-
-
-
-
-
-
-
 
 button {
   padding: 15px 25px;
